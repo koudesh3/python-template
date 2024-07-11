@@ -7,7 +7,7 @@ This is my project template for Python scripts. Used to prevent having to manage
 * **Local secret management**: Add secrets to a .env file in the repo and access them from `src/utils/secrets.py`
 
 ## Prerequisites
-* Docker desktop application
+* Docker desktop 🐳
 
 ## Setup
 1. Add any dependencies to `requirements.txt`
