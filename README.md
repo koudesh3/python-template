@@ -4,7 +4,7 @@ This is my project template for Python scripts. Used to prevent having to manage
 ## ✨ Features ✨
 * **Test framework**: `pytest` with configurable minimum threshold for test coverage
 * **Logging**: app.log stores logs of the application
-* **Local secret management**: Add secrets to a .env file in the repo and access them from src/utils/secrets.py
+* **Local secret management**: Add secrets to a .env file in the repo and access them from `src/utils/secrets.py`
 
 ## Prerequisites
 * Docker desktop application
